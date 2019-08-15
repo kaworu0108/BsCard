@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="208px" height="295px" viewBox="0 0 208 295" enable-background="new 0 0 208 295" xml:space="preserve">
+<g>
+	<rect y="-0.006" fill="#2D1972" width="208.595" height="295.013"/>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" y="-0.006" width="208.595" height="295.013"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_2_)">
+			<polygon fill="#AB03C8" points="-33.409,-0.006 78.222,111.625 78.222,-0.006 			"/>
+			<polygon fill="#AB03C8" points="127.201,139.952 208.595,221.346 208.595,139.952 			"/>
+			<polygon fill="#AB03C8" points="170.208,221.346 189.603,240.74 189.603,221.346 			"/>
+			<polygon fill="#0D51D0" points="17.658,143.346 37.052,162.74 37.052,143.346 			"/>
+			<polygon opacity="0.5" fill="#FFFFFF" points="103.525,248.013 114.795,259.282 114.795,248.013 			"/>
+			<polygon fill="#4B03A8" points="78.222,-0.006 78.222,66.814 11.401,-0.006 			"/>
+			<polygon fill="#0D51D0" points="49.761,-0.006 123.733,73.969 123.733,-0.006 			"/>
+			<polygon fill="#03D8E8" points="95.979,-0.006 208.595,112.611 208.595,-0.006 			"/>
+			<polygon fill="#AB03C8" points="161.288,-0.006 208.595,47.301 208.595,-0.006 			"/>
+			<polygon fill="#FFFFFF" points="208.595,47.301 208.595,137.385 118.511,47.301 			"/>
+			<polygon opacity="0.5" fill="#FFFFFF" points="161.288,-0.006 161.288,90.078 71.204,-0.006 			"/>
+			<polygon opacity="0.5" fill="#FFFFFF" points="78.222,28.335 78.222,111.856 -5.3,28.335 			"/>
+			<polygon opacity="0.5" fill="#FFFFFF" points="123.733,73.78 123.733,119.801 77.713,73.78 			"/>
+			<polygon opacity="0.5" fill="#FFFFFF" points="162.268,112.945 162.268,140.301 134.913,112.945 			"/>
+			<polygon opacity="0.5" fill="#FFFFFF" points="27.354,60.291 27.354,87.646 0,60.291 			"/>
+			<polygon opacity="0.5" fill="#FFFFFF" points="95.979,0.016 95.979,46.037 49.957,0.016 			"/>
+			<polygon fill="#FFFFFF" points="208.595,112.611 208.595,159.302 161.905,112.611 			"/>
+			<polygon opacity="0.5" fill="#FFFFFF" points="208.595,177.386 208.595,210.075 175.905,177.386 			"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 78.3394 136.2832)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Bebas'" font-size="16" letter-spacing="1">DESIGN</tspan><tspan x="0" y="20.985" fill="#FFFFFF" font-family="'Bebas'" font-size="17.4879" letter-spacing="1">COVER</tspan></text>
+			
+				<text transform="matrix(1 0 0 1 79.5288 168.3789)" fill="#FFFFFF" font-family="'Bebas'" font-size="5.8123" letter-spacing="1">dolor sit amet</text>
+		</g>
+	</g>
+	<g>
+		<rect x="73.443" y="116.096" fill="none" width="61.709" height="95.057"/>
+		<path fill="#FFFFFF" d="M71.443,114.096v99.057h65.709v-99.057H71.443z M135.152,211.152H73.443v-95.057h61.709V211.152z"/>
+	</g>
+</g>
+</svg>

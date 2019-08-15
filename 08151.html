@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="../css/bootstrap.css">
+    <title>Hello, world!</title>
+    <style>
+        /* 因為無法直接使用BS 需用CSS處理 */
+        
+        #loading {
+            /* 是為了讓它移動畫面時LOAD不動 */
+            background: black;
+            width: 100vw;
+            height: 100vh;
+            position: fixed;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- <div id="loading" class="vw-100 vh-100 d-flex position-fixed justify-content-center align-items-center bg-info"> -->
+    <div id="loading" class="loading">
+        <img src="img/loading.svg" style="width: 300px;height: 300px;">
+    </div>
+    <div id="content">
+        <img src="https://picsum.photos/1920/1080/?random=1">
+        <img src="https://picsum.photos/1920/1080/?random=2">
+        <img src="https://picsum.photos/1920/1080/?random=3">
+    </div>
+    <!-- BS 做loading特效時請使用3.4.1.JS-->
+    <script src="../js/jquery-3.4.1.min.js"></script>
+    <script src="../js/popper.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script>
+        $('#content').css('display', 'none');
+        $(window).on('load', function() {
+            $('#loading').fadeOut(2000, function() {
+                $('#content').fadeIn(1000);
+            });
+        });
+    </script>
+</body>
+
+</html>
